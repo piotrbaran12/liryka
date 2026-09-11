@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Wiersze autorstwa Piotra Barana",
+      "hasCanvas": false,
+      "bodyTextLen": 700,
+      "bodyTextHash": "146f850b28e8156b0fdd2406e14f7632311553f1fe5f14010ecef5fe205f211d",
+      "bodyTextPrefix": "Piotr Baran START WIERSZE TOM POEZJI · 2023—2026 Wiersze autorst",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Wiersze autorstwa Piotra Barana",
+      "hasCanvas": false,
+      "bodyTextLen": 700,
+      "bodyTextHash": "146f850b28e8156b0fdd2406e14f7632311553f1fe5f14010ecef5fe205f211d",
+      "bodyTextPrefix": "Piotr Baran START WIERSZE TOM POEZJI · 2023—2026 Wiersze autorst",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
